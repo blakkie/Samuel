@@ -1,0 +1,24 @@
+id,book,title,reference,used,style_hint
+001,Daniel,The four beasts vision,Daniel 7:1-28,false,Prophetic
+002,Daniel,Shadrach Meshach and Abednego,Daniel 3:1-30,false,Storytelling
+003,Daniel,The writing on the wall,Daniel 5:1-31,false,Commentary
+004,Daniel,Daniel in the lions den,Daniel 6:1-28,false,Storytelling
+005,Daniel,The seventy weeks prophecy,Daniel 9:20-27,false,Educational
+006,Revelation,The seven seals opened,Revelation 6:1-17,false,Prophetic
+007,Revelation,The woman and the dragon,Revelation 12:1-17,false,Storytelling
+008,Revelation,The mark of the beast,Revelation 13:11-18,false,Commentary
+009,Revelation,The fall of Babylon,Revelation 18:1-24,false,Educational
+010,Revelation,The new Jerusalem,Revelation 21:1-27,false,Prophetic
+011,Psalms (David),The Lord is my shepherd,Psalm 23:1-6,false,Devotional
+012,Psalms (David),Why have you forsaken me,Psalm 22:1-31,false,Prophetic
+013,Psalms (David),The heavens declare glory,Psalm 19:1-14,false,Educational
+014,Psalms (David),Create in me a clean heart,Psalm 51:1-19,false,Devotional
+015,Ezekiel,The valley of dry bones,Ezekiel 37:1-14,false,Prophetic
+016,Ezekiel,The vision of the four living creatures,Ezekiel 1:1-28,false,Educational
+017,Ezekiel,The watchman on the wall,Ezekiel 33:1-20,false,Educational
+018,Gospels (Jesus),The olivet discourse,Matthew 24:1-51,false,Prophetic
+019,Gospels (Jesus),The transfiguration,Matthew 17:1-13,false,Storytelling
+020,Gospels (Jesus),The prodigal son,Luke 15:11-32,false,Storytelling
+021,Book of Enoch,The Watchers descend to earth,Enoch 6-7,false,Storytelling
+022,Book of Enoch,The judgment of the fallen angels,Enoch 10,false,Prophetic
+023,Book of Enoch,Enoch is taken to the throne room,Enoch 14,false,Educational
